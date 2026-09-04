@@ -35,11 +35,11 @@ liderando a preservação dos recursos hídricos nos lares.
 
 ## 👥 Nossa equipe
 
-| Nome | Função |
-|------|--------|
-| Débora | Front-End |
-| William | Back-End |
-| Lívia | Banco de Dados |
+| Nome | Função | Git |
+|------|--------|-----|
+| Débora | Front-End | @liviacasttro |
+| William | Back-End | @deboramoota |
+| Lívia | Banco de Dados | @will-2009 |
 
 ---
 
