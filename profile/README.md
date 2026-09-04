@@ -1,14 +1,56 @@
-🎯 Missão : 
+# ✨ NOME DA ORGANIZAÇÃO
 
-Usar a tecnologia para transformar a economia de água em um hábito simples, mensurável e recompensador, gerando impacto socioambiental positivo.
+> Uma frase pequena sobre a organização.
 
-**Visão**
-Ser referência global em tecnologia socioambiental, liderando a preservação dos recursos hídricos nos lares.
+---
 
-**Valores**
+## 👋 Quem somos?
 
-* **Sustentabilidade em Primeiro Lugar:** Decisões focadas no impacto ambiental positivo.
-* **Inovação com Propósito:** Tecnologia voltada para resolver problemas reais.
-* **Empatia e Acessibilidade:** Soluções simples, transparentes e inclusivas.
-* **Incentivo Positivo:** Mudança de hábito via educação e gamificação, sem julgamentos.
-* **Comprometimento com o Futuro:** Ética e responsabilidade na preservação da água. 
+Somos uma equipe que busca desenvolver soluções
+criativas e tecnológicas para facilitar a vida das pessoas.
+
+---
+
+## 🎯 Missão
+
+Nossa missão é criar soluções inovadoras, acessíveis
+e eficientes, utilizando a tecnologia para resolver
+problemas do dia a dia.
+
+---
+
+## 💡 Valores
+
+- 🤝 Colaboração
+- 💡 Inovação
+- 🚀 Criatividade
+- 📚 Aprendizado
+- ❤️ Compromisso
+
+---
+
+## 👀 Visão
+
+Ser uma organização reconhecida pela criatividade,
+inovação e impacto positivo de nossos projetos.
+
+---
+
+## 👥 Nossa equipe
+
+| Nome | Função |
+|------|--------|
+| Pessoa 1 | Front-End |
+| Pessoa 2 | Back-End |
+| Pessoa 3 | Designer |
+| Pessoa 4 | Banco de Dados |
+
+---
+
+## 💻 Tecnologias
+
+HTML • CSS • JavaScript • Python
+
+---
+
+✨ **Feito com dedicação pela nossa equipe.**
