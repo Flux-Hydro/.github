@@ -1,4 +1,5 @@
-**Missão**
+🎯 Missão : 
+
 Usar a tecnologia para transformar a economia de água em um hábito simples, mensurável e recompensador, gerando impacto socioambiental positivo.
 
 **Visão**
