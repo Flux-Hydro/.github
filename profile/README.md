@@ -45,7 +45,7 @@ liderando a preservação dos recursos hídricos nos lares.
 
 ## 💻 Tecnologias
 
-JAVA •  • JavaScript • 
+☕ Java •  🖥️ Java Swing • 🐱 Git e GitHub • 🐬 MySQL • 🔗 JDBC 
 
 ---
 
