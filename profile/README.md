@@ -1,10 +1,9 @@
-# ✨ FLUXHYDRO
+# 💧 FLUXHYDRO
 
-> Uma frase pequena sobre a organização.
-
+> Transformando pequenas atitudes diárias em um impacto gigante para o planeta.
 ---
 
-## 👋 Quem somos?
+## 🎭 Quem somos?
 
 Somos uma equipe que busca desenvolver soluções
 criativas e tecnológicas para facilitar a vida das pessoas.
@@ -19,11 +18,11 @@ mensurável e recompensador, gerando impacto socioambiental positivo.
 
 ## 💡 Valores
 
-- 🤝 Colaboração
-- 💡 Inovação
-- 🚀 Criatividade
-- 📚 Aprendizado
-- ❤️ Compromisso
+- 🍃 Sustentabilidade
+- 💡 Propósito
+- 🌍 Acessibilidade
+- ⚙️ Engajamento
+- ❤️ Responsabilidade
 
 ---
 
