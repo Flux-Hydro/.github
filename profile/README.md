@@ -10,4 +10,4 @@ Ser referência global em tecnologia socioambiental, liderando a preservação d
 * **Inovação com Propósito:** Tecnologia voltada para resolver problemas reais.
 * **Empatia e Acessibilidade:** Soluções simples, transparentes e inclusivas.
 * **Incentivo Positivo:** Mudança de hábito via educação e gamificação, sem julgamentos.
-* **Comprometimento com o Futuro:** Ética e responsabilidade na preservação da água.
+* **Comprometimento com o Futuro:** Ética e responsabilidade na preservação da água. 
