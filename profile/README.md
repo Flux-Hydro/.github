@@ -1,4 +1,4 @@
-# ✨ NOME DA ORGANIZAÇÃO
+# ✨ FLUXHYDRO
 
 > Uma frase pequena sobre a organização.
 
@@ -13,10 +13,8 @@ criativas e tecnológicas para facilitar a vida das pessoas.
 
 ## 🎯 Missão
 
-Nossa missão é criar soluções inovadoras, acessíveis
-e eficientes, utilizando a tecnologia para resolver
-problemas do dia a dia.
-
+Usar a tecnologia para transformar a economia de água em um hábito simples,
+mensurável e recompensador, gerando impacto socioambiental positivo.
 ---
 
 ## 💡 Valores
@@ -31,8 +29,8 @@ problemas do dia a dia.
 
 ## 👀 Visão
 
-Ser uma organização reconhecida pela criatividade,
-inovação e impacto positivo de nossos projetos.
+Ser referência global em tecnologia socioambiental,
+liderando a preservação dos recursos hídricos nos lares.
 
 ---
 
@@ -40,16 +38,15 @@ inovação e impacto positivo de nossos projetos.
 
 | Nome | Função |
 |------|--------|
-| Pessoa 1 | Front-End |
-| Pessoa 2 | Back-End |
-| Pessoa 3 | Designer |
-| Pessoa 4 | Banco de Dados |
+| Débora | Front-End |
+| William | Back-End |
+| Lívia | Banco de Dados |
 
 ---
 
 ## 💻 Tecnologias
 
-HTML • CSS • JavaScript • Python
+JAVA •  • JavaScript • 
 
 ---
 
