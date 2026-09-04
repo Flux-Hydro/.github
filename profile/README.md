@@ -37,9 +37,9 @@ liderando a preservação dos recursos hídricos nos lares.
 
 | Nome | Função | Git |
 |------|--------|-----|
-| Débora | Front-End | @liviacasttro |
-| William | Back-End | @deboramoota |
-| Lívia | Banco de Dados | @will-2009 |
+| Débora | Front-End | @deboramoota |
+| William | Back-End | @will-2009 |
+| Lívia | Banco de Dados | @liviacasttro |
 
 ---
 
