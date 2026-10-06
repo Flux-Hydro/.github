@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./fluxhydro.jpg" width="100%">
+</p>
+
 # 💧 FluxHydro
 
 > **Transformando pequenas atitudes diárias em um impacto gigante para o planeta.**
